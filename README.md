@@ -4,6 +4,12 @@ This project showcases a 3D model developed for a US-based client using Spline. 
 
 ## Live Demo
 
+
+<video src="https://github.com/user-attachments/assets/51fb95f1-e100-493e-94d3-b85f0940b3d3" autoplay loop muted playsinline></video>
+
+
+
+
 You can view the 3D model in action below:
 
 ```html
