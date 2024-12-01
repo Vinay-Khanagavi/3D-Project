@@ -8,8 +8,7 @@ This project showcases a 3D model developed for a US-based client using Spline. 
 </video>
 
 # Published in Spline community 
-https://app.spline.design/community/file/28ad3b10-5676-4209-aa32-53d299354e64
-
+https://my.spline.design/cubic-0e8062b25026a5602279006498fcc74f/
 You can view the 3D model in action below:
 
 ```html
